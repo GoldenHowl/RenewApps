@@ -25,13 +25,4 @@ Whether you’re reviving a netbook from 2009, dual-booting XP for fun, or tryin
 A humble beginning. Just one file:  
 🎨 `YouPaint_ZPE.exe` — a lightweight drawing tool extracted and rebuilt for minimal systems.
 
-> It's not much, but it's honest work.  
-
----
-
-## 📁 Project Structure (in progress)
-
-RenewApps
-├── windows/              # Legacy Windows .exe tools
-├── README.md             # You're here
-└── ROADMAP.md            # Development plan
+> It's not much, but it's honest work. 
